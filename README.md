@@ -1,16 +1,15 @@
-# lottaryapp
 
-A new Flutter project.
+# Lotter app example
 
-## Getting Started
+It generate Randome number for winning the lottery.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## winning_screen1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://github.com/nishithahub95/lottery-app-eaxample/blob/master/screenshoot/2023-03-25%20(1).png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## screen2
+
+![App Screenshot](https://github.com/nishithahub95/lottery-app-eaxample/blob/master/screenshoot/2023-03-25.png)
+
+
